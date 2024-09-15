@@ -1,7 +1,7 @@
 # Advice for Physics Students
-If you ever watched Ned's Declassified School Survival Guide, this is like that but for university physics students.
+If you get the repository name reference...respect.
 
-These are some (hopefully) helpful pieces of advice for university physics students expecially those who are interested in computer programming and the problems it allows yo to solve.
+These are some (hopefully) helpful pieces of advice for university physics students expecially those who are interested in computer programming and the problems it allows yo to solve. Everything here is my opinion but I think it's general enough to be valid.
 
 <br>
 
