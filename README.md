@@ -67,7 +67,7 @@ Look into these and others to decide what you want to code in.
         Worth being competent in <strong style="color: orange">MS Excel</strong>.
     </ul>
     <h3>
-    Data Sciecne Things (and Tools to Do Them):
+    Data Sciecne Things (and Tools to Do Them With):
     </h3>
     <ul style="padding-left: 20px;">
         <li>
